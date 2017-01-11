@@ -1,2 +1,3 @@
 # hello
-first GitHub parctice
+first GitHub parctic
+github 練習 
